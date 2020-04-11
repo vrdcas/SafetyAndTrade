@@ -11,4 +11,5 @@ Datasets on:
 4 - geocoded locations of U.S. Naval fleets between July 2017 and 2020
 
 Codes:
-- Python scraping code for U.S Navy fleet locations by date (with file of extracted images and dates: Navy_dates.csv)
+5 - Python scraping code for U.S Navy fleet locations by date (with file of extracted images and dates: Navy_dates.csv)
+6 - Images extracted with (5) are then used to impute the geolocations of the fleets using GIS (code: )
