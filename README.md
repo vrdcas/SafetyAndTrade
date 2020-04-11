@@ -9,3 +9,6 @@ Datasets on:
 2- geocoded data on weather conditions
 3- reports of the Commercial Crime Services (ICC) on events of piracy and armed robberies against ships around the world for the same period
 4 - geocoded locations of U.S. Naval fleets between July 2017 and 2020
+
+Codes:
+- Python scraping code for U.S Navy fleet locations by date (with file of extracted images and dates: Navy_dates.csv)
