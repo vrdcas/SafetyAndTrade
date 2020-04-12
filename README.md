@@ -13,3 +13,7 @@ Datasets on:
 Codes:
 5 - Python scraping code for U.S Navy fleet locations by date (with file of extracted images and dates: Navy_dates.csv)
 6 - Images extracted with (5) are then used to impute the geolocations of the fleets using GIS (code: )
+
+Preliminary results (DEMO):
+
+7- the image "trip_simulation" shows an example of a ship route taking into account safety variables. Black circles are US navy fleets and red ones are pirate attacks.
